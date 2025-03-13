@@ -1,0 +1,3 @@
+C:/Users/Tuba Özlü/CLionProjects/hesmaksec/cmake-build-debug/CMakeFiles/hesmaksec.dir
+C:/Users/Tuba Özlü/CLionProjects/hesmaksec/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tuba Özlü/CLionProjects/hesmaksec/cmake-build-debug/CMakeFiles/rebuild_cache.dir
